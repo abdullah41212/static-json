@@ -1,4 +1,79 @@
 {
-  "data": "Hello World!",
-  "source": "github pages"
+  "users": [
+    {
+      "id": 1,
+      "username": "",
+      "email": "",
+      "password": "b",
+      "taxhistory": [
+        {
+          "operation": "monthly"
+        },
+        {
+          "operation": "monthly"
+        },
+        {
+          "operation": "monthly"
+        },
+        {
+          "operation": "monthly"
+        },
+        {
+          "operation": "monthly"
+        },
+        {
+          "operation": "monthly"
+        },
+        {
+          "taxamount": 1550.125,
+          "operation": "monthly"
+        },
+        {
+          "operation": "monthly"
+        }
+      ]
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4,
+      "taxhistory": [
+        {
+          "taxamount": "688",
+          "operation": "Ggh"
+        },
+        {
+          "taxamount": "3939936.",
+          "operation": "Yvyvyvv"
+        }
+      ]
+    },
+    {
+      "username": "",
+      "email": "",
+      "password": "a",
+      "id": 5,
+      "taxhistory": []
+    },
+    {
+      "id": 6
+    },
+    {
+      "username": "Abdullah",
+      "email": "aleemabdullah96@gmail.com",
+      "password": "Abd",
+      "id": 7,
+      "taxhistory": []
+    },
+    {
+      "username": "Abdullah aleem",
+      "email": "aleemabdullah96@gmail.com",
+      "password": "Abd",
+      "id": 8
+    }
+  ]
 }
